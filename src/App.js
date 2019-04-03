@@ -1,5 +1,4 @@
 import React, {PureComponent} from 'react';
-import './App.css';
 import {BottomNavigation, BottomNavigationAction} from '@material-ui/core';
 import {Refresh, CompareArrows, Favorite, Warning} from '@material-ui/icons';
 import SimpleStore from "./components/simple/SimpleStore";
